@@ -32,7 +32,7 @@ Dataset includes handwritten characters categorized into:
 https://www.kaggle.com/code/amrmohamedahemd/dysgraphia-detection-using-cnn/edit
 ## 👨‍💻 Author
 Amr
-<img width="681" height="225" alt="Screenshot 2026-03-26 181336" src="https://github.com/user-attachments/assets/48677f82-ba3f-4ab8-b168-b0cea3dabf96" />
-<img width="733" height="508" alt="Screenshot 2026-03-26 181320" src="https://github.com/user-attachments/assets/815e1f83-8508-463e-a3bf-984775f0cfd2" />
-<img width="1463" height="638" alt="Screenshot 2026-03-26 074837" src="https://github.com/user-attachments/assets/7bcd64b8-4dc9-449e-9889-0e251aee6ee5" />
+<img width="667" height="150" alt="Screenshot 2026-03-26 181408" src="https://github.com/user-attachments/assets/743bd77c-0d71-492a-b9c5-f0e7413e844e" />
+<img width="681" height="225" alt="Screenshot 2026-03-26 181336" src="https://github.com/user-attachments/assets/05e689ee-85d0-40d2-b114-7d5ce89cf8fc" />
+<img width="733" height="508" alt="Screenshot 2026-03-26 181320" src="https://github.com/user-attachments/assets/37be9450-cacf-4cb3-8607-3422d8a8eb68" />
 
