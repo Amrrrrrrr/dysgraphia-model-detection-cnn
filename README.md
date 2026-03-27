@@ -28,7 +28,10 @@ Dataset includes handwritten characters categorized into:
 2. Install requirements  
 3. Run the notebook  
 
-## 🔗 Kaggle Notebook
+⚠️ Note: Model file is not included due to size limitations.
+
+## 🔗 Kaggle Notebook 
+You can download h5 file from here
 https://www.kaggle.com/code/amrmohamedahemd/dysgraphia-detection-using-cnn/edit
 ## 👨‍💻 Author
 Amr
